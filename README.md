@@ -1,4 +1,4 @@
-# TATNet: A Temporal Attention-enhanced Transformer for Smartphone App Usage Prediction
+# TGT: A Temporal Gating Transformer for Smartphone App Usage Prediction
 
 This project implements the TATNet model, a temporal attention-based Transformer framework designed to improve app usage prediction by integrating temporal encoding and feature encoding.
 
@@ -20,7 +20,7 @@ This project implements the TATNet model, a temporal attention-based Transformer
 
 ## Overview
 
-Accurately predicting app usage patterns can significantly enhance user experience and system performance by preloading app-related resources, reducing startup latency, and improving energy efficiency. Atten-Transformer combines a Transformer with a temporal attention mechanism to prioritize the most informative app usage sequences, significantly improving prediction accuracy.
+Accurately predicting app usage patterns can significantly enhance user experience and system performance by preloading app-related resources, reducing startup latency, and improving energy efficiency. TGT combines a Transformer with a temporal attention mechanism to prioritize the most informative app usage sequences, significantly improving prediction accuracy.
 
 ---
 
